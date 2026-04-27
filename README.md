@@ -3,6 +3,7 @@
 A simple dashboard to manage and visualize customer data, built with React, Bootstrap, and Google Charts.
 
 ## Features
+## Features
 
 - **Dashboard Overview**: Display key statistics like total orders, total amount, and unique customers.
 - **Search Functionality**: Search customers by name or phone number.
